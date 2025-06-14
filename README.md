@@ -27,7 +27,7 @@ Todo el desarrollo fue realizado utilizando **HTML5, CSS3, JavaScript y Bootstra
 
 ## 📸 Vista del sitio
 
-![Vista del sitio](screenshot-home.png)
+![Captura del sitio](captura.png)
 
 ---
 
